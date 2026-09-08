@@ -49,7 +49,7 @@ These are projects that I maintain and still develop for:
         and memory research to testing the finished set.
       </p>
       <p align="center">
-        <a href="https://retroachievements.org/user/Denis"><strong>RetroAchievements →</strong></a>
+        <a href="https://retroachievements.org/user/Denzi"><strong>RetroAchievements →</strong></a>
       </p>
     </td>
   </tr>
