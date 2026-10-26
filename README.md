@@ -12,53 +12,58 @@
 
 ## About me
 
-I enjoy creating things, especially where **software, gaming, and creative technology** overlap.
+I’m a Media Informatics student with a background as a trained IT specialist and several years of hands-on experience in system administration and industrial data integration.
 
-My GitHub is a mix of polished projects and smaller ideas that caught my interest, every project here came from a random thought and trying to see if it could work! :D
+I like building software that solves real problems, from desktop tools that people actually use to automation and low-level work like reverse engineering. Most of my projects start with a simple “could this work?” and grow into maintained tools with CI, tests and regular releases.
 
 ## Projects
-These are projects that I maintain and still develop for:
+These are projects that I maintain:
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">🏆 CheevoPresence</h3>
-      <p>
-        A cross-platform desktop app that mirrors live RetroAchievements activity
-        to Discord Rich Presence.
-      </p>
       <p align="center">
-        <a href="https://github.com/denzi-gh/CheevoPresence"><strong>View project →</strong></a>
+        <a href="https://github.com/denzi-gh/CheevoPresence/releases"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fdenzi.dev%2Fapi%2Fdownloads%2Fdenzi-gh%2FCheevoPresence&amp;style=flat-square" alt="Downloads" /></a>
+        <a href="https://github.com/denzi-gh/CheevoPresence/stargazers"><img src="https://img.shields.io/github/stars/denzi-gh/CheevoPresence?style=flat-square&amp;color=0084ff" alt="Stars" /></a>
+        <a href="https://github.com/denzi-gh/CheevoPresence/releases/latest"><img src="https://img.shields.io/github/v/release/denzi-gh/CheevoPresence?style=flat-square&amp;label=release" alt="Latest release" /></a>
       </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🧩 Game Decompilation</h3>
       <p>
-        Reconstructing <em>Crash Bandicoot: The Wrath of Cortex</em> as readable,
-        matching source code for GameCube and PlayStation 2.
+        Shows what you're playing on RetroAchievements directly in your Discord status,
+        live and automatically.
       </p>
+      <ul>
+        <li>Mirrors your current game and Rich Presence to Discord</li>
+        <li>Runs quietly in the system tray / menu bar</li>
+        <li>Builds for Windows, macOS and Linux</li>
+      </ul>
+      <p align="center"><sub>Python · Discord RPC · RetroAchievements API</sub></p>
       <p align="center">
-        <a href="https://github.com/denzi-gh/crashwoc-decomp-gc">GameCube</a>
+        <a href="https://github.com/denzi-gh/CheevoPresence/releases/latest"><strong>Download →</strong></a>
         ·
-        <a href="https://github.com/denzi-gh/crashwoc-decomp-ps2">PS2</a>
+        <a href="https://github.com/denzi-gh/CheevoPresence"><strong>Source →</strong></a>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🎮 denzis-ra-sets</h3>
-      <p>
-        RetroAchievements sets I create and maintain, from achievement design
-        and memory research to testing the finished set.
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">🧩 Crash Bandicoot: The Wrath of Cortex Decompilation</h3>
       <p align="center">
-        <a href="https://retroachievements.org/user/Denzi"><strong>RetroAchievements →</strong></a>
+                <a href="https://decomp.dev/denzi-gh/crashwoc-decomp-ps2"><img src="https://decomp.dev/denzi-gh/crashwoc-decomp-ps2.svg?mode=shield&amp;label=PS2%3A&amp;color=%230084ff&amp;style=flatsquare&amp;measure=matched_code_percent" alt="PS2 matched code" /></a>
+        <a href="https://decomp.dev/denzi-gh/crashwoc-decomp-gc"><img src="https://decomp.dev/denzi-gh/crashwoc-decomp-gc.svg?mode=shield&amp;label=GameCube%3A&amp;color=%230084ff&amp;style=flatsquare&amp;measure=matched_code_percent" alt="GameCube matched code" />
+        </a>
+      </p>
+      <p>
+        Reconstructing the original game as readable C source code that compiles
+        back into a byte-identical copy of the retail binaries.
+      </p>
+      <ul>
+        <li>Built with the original compilers in reproducible toolchains</li>
+        <li>Every commit is verified by CI and tracked on decomp.dev</li>
+      </ul>
+      <p align="center"><sub>C · MIPS/PowerPC Assembly · Python · objdiff</sub></p>
+      <p align="center">
+        <a href="https://github.com/denzi-gh/crashwoc-decomp-gc"><strong>GameCube →</strong></a>
+        ·
+        <a href="https://github.com/denzi-gh/crashwoc-decomp-ps2"><strong>PS2 →</strong></a>
       </p>
     </td>
   </tr>
 </table>
-
-
-
-## Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,c,cpp,git,github,vscode&amp;perline=10" alt="TypeScript, React, Next.js, Tailwind CSS, Python, C, C++, Git, GitHub, and Visual Studio Code" />
-</p>
