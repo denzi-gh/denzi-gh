@@ -4,12 +4,6 @@
   <strong>Media Informatics student from Germany</strong><br />
 </p>
 
-<p align="center">
-  <a href="https://denzi.dev">
-    <img src="https://img.shields.io/badge/denzi.dev-7C3AED?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="denzi.dev" />
-  </a>
-</p>
-
 ## About me
 
 I’m a Media Informatics student with a background as a trained IT specialist and several years of hands-on experience in system administration and industrial data integration.
