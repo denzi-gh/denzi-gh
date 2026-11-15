@@ -60,4 +60,32 @@ These are projects that I maintain:
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <p align="center"><br>
+        <img src="https://raw.githubusercontent.com/denzi-gh/crashwoc-nuworld/main/assets/branding/nuworld-icon.svg" width="86" alt="NuWorld logo" />
+      </p>
+      <h3 align="center">CrashWOC: NuWorld</h3>
+      <p align="center">
+        <a href="https://github.com/denzi-gh/crashwoc-nuworld/releases"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fdenzi.dev%2Fapi%2Fdownloads%2Fdenzi-gh%2Fcrashwoc-nuworld&amp;style=flat-square" alt="Downloads" /></a>
+        <a href="https://github.com/denzi-gh/crashwoc-nuworld/stargazers"><img src="https://img.shields.io/github/stars/denzi-gh/crashwoc-nuworld?style=flat-square&amp;color=0084ff" alt="Stars" /></a>
+        <a href="https://github.com/denzi-gh/crashwoc-nuworld/releases/latest"><img src="https://img.shields.io/github/v/release/denzi-gh/crashwoc-nuworld?style=flat-square&amp;label=release" alt="Latest release" /></a>
+      </p>
+      <p>
+        A native PC port of Crash Bandicoot: The Wrath of Cortex (PS2). It isn't an emulator
+        or a static recomp: it runs the game's own code, rebuilt from the decompilation.
+      </p>
+      <ul>
+        <li>Enhanced movement, 50/60 Hz, any aspect ratio, frame interpolation and longer draw distance</li>
+        <li>Remappable gamepad and keyboard, 100 save slots, PCSX2 memory card import/export</li>
+        <li>Will be expanded to more and more new features with future mod support</li>
+      </ul>
+      <p align="center"><sub>C · C++ · CMake · OpenGL</sub></p>
+      <p align="center">
+        <a href="https://github.com/denzi-gh/crashwoc-nuworld/releases/latest"><strong>Download →</strong></a>
+        ·
+        <a href="https://github.com/denzi-gh/crashwoc-nuworld"><strong>Source →</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
